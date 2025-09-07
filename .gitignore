@@ -1,16 +1,15 @@
-# Entornos y dependencias
+# Entorno virtual
 .venv/
+venv/
+
+# Archivos temporales de Python
 __pycache__/
 *.pyc
+*.pyo
+
+# Jupyter Notebooks checkpoints
 .ipynb_checkpoints/
 
-# Datos grandes o sensibles
-# Si NO quieres subir stroke.csv (por licencia), déjalo activado
-# data/stroke.csv
-
-# Modelos pesados (si prefieres generarlos al correr el notebook)
-outputs/modelos/
-
-# Archivos temporales del sistema
+# Archivos de sistema
 .DS_Store
 Thumbs.db
