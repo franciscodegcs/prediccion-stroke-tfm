@@ -1,0 +1,2 @@
+model,strategy,auc,thr_opt_youden,thr_opt_f1,accuracy_t05,sensitivity_t05,specificity_t05,precision_t05,f1_t05,tn_t05,fp_t05,fn_t05,tp_t05,accuracy_tyouden,sensitivity_tyouden,specificity_tyouden,precision_tyouden,f1_tyouden,tn_tyouden,fp_tyouden,fn_tyouden,tp_tyouden,accuracy_tf1,sensitivity_tf1,specificity_tf1,precision_tf1,f1_tf1,tn_tf1,fp_tf1,fn_tf1,tp_tf1
+RL,class_weight,0.8367,0.4432,0.7449,0.7397,0.7952,0.7369,0.1341,0.2294,3582,1279,51,198,0.7068,0.8554,0.6992,0.1272,0.2214,3399,1462,36,213,0.8687,0.5261,0.8862,0.1915,0.2808,4308,553,118,131

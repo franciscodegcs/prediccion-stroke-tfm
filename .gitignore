@@ -1,0 +1,16 @@
+# Entornos y dependencias
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos grandes o sensibles
+# Si NO quieres subir stroke.csv (por licencia), déjalo activado
+# data/stroke.csv
+
+# Modelos pesados (si prefieres generarlos al correr el notebook)
+outputs/modelos/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,avg_glucose_level,bmi,smoking_status,prob_stroke,pred_label,umbral
+Male,67,1,1,Yes,Private,Urban,210.0,31.5,formerly smoked,0.382,0,0.4432
+Female,45,0,0,Yes,Govt_job,Rural,85.0,22.0,never smoked,0.0,0,0.4432
+Male,30,0,0,No,Self-employed,Urban,95.0,27.0,smokes,0.01,0,0.4432

@@ -1,0 +1,2 @@
+model,strategy,auc,thr_opt_youden,thr_opt_f1,accuracy_t05,sensitivity_t05,specificity_t05,precision_t05,f1_t05,tn_t05,fp_t05,fn_t05,tp_t05,accuracy_tyouden,sensitivity_tyouden,specificity_tyouden,precision_tyouden,f1_tyouden,tn_tyouden,fp_tyouden,fn_tyouden,tp_tyouden,accuracy_tf1,sensitivity_tf1,specificity_tf1,precision_tf1,f1_tf1,tn_tf1,fp_tf1,fn_tf1,tp_tf1
+DecisionTree,class_weight,0.5503,1.0,1.0,0.9202,0.1406,0.9601,0.1528,0.1464,4667,194,214,35,0.9202,0.1406,0.9601,0.1528,0.1464,4667,194,214,35,0.9202,0.1406,0.9601,0.1528,0.1464,4667,194,214,35

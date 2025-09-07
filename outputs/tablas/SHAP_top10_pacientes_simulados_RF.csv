@@ -1,0 +1,31 @@
+paciente,rank,feature,shap_value,contribution
+1,1,age,0.08904387011811195,↑ riesgo
+1,2,avg_glucose_level,0.08437226892073284,↑ riesgo
+1,3,heart_disease,0.07977276397553283,↑ riesgo
+1,4,bmi,0.024496798255663067,↑ riesgo
+1,5,smoking_status_never smoked,0.01491627165844534,↑ riesgo
+1,6,Residence_type_Rural,0.010869641452210317,↑ riesgo
+1,7,Residence_type_Urban,0.010338917698665568,↑ riesgo
+1,8,work_type_Private,0.009337982555077246,↑ riesgo
+1,9,gender_Male,0.00846298613565864,↑ riesgo
+1,10,work_type_Self-employed,0.006632988949638161,↑ riesgo
+2,1,age,-0.017616796395054736,↓ riesgo
+2,2,avg_glucose_level,-0.007804333889970394,↓ riesgo
+2,3,bmi,-0.006467708286432981,↓ riesgo
+2,4,hypertension,-0.0042821113947888985,↓ riesgo
+2,5,smoking_status_formerly smoked,-0.0037959144126386945,↓ riesgo
+2,6,smoking_status_never smoked,-0.0037938098015604283,↓ riesgo
+2,7,work_type_Govt_job,-0.0017444445865498891,↓ riesgo
+2,8,ever_married_No,-0.0013132223042532586,↓ riesgo
+2,9,work_type_Self-employed,-0.0010353889323539533,↓ riesgo
+2,10,heart_disease,-0.0010143572018796476,↓ riesgo
+3,1,age,-0.04225386399227716,↓ riesgo
+3,2,bmi,0.007002304255873924,↑ riesgo
+3,3,work_type_Self-employed,0.005665232682083001,↑ riesgo
+3,4,hypertension,-0.0037954028383614968,↓ riesgo
+3,5,smoking_status_smokes,-0.0035011865680485243,↓ riesgo
+3,6,smoking_status_never smoked,-0.0030420716111643742,↓ riesgo
+3,7,gender_Male,-0.0025483659699096963,↓ riesgo
+3,8,gender_Female,-0.0020108226638700442,↓ riesgo
+3,9,Residence_type_Rural,0.0018212808310033779,↑ riesgo
+3,10,avg_glucose_level,-0.0016562201611111504,↓ riesgo

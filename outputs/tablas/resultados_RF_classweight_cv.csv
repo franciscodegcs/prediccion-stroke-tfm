@@ -1,0 +1,2 @@
+model,strategy,auc,thr_opt_youden,thr_opt_f1,accuracy_t05,sensitivity_t05,specificity_t05,precision_t05,f1_t05,tn_t05,fp_t05,fn_t05,tp_t05,accuracy_tyouden,sensitivity_tyouden,specificity_tyouden,precision_tyouden,f1_tyouden,tn_tyouden,fp_tyouden,fn_tyouden,tp_tyouden,accuracy_tf1,sensitivity_tf1,specificity_tf1,precision_tf1,f1_tf1,tn_tf1,fp_tf1,fn_tf1,tp_tf1
+RandomForest,class_weight_subsample,0.795,0.032,0.062,0.9507,0.004,0.9992,0.2,0.0079,4857,4,248,1,0.6802,0.8313,0.6725,0.1151,0.2021,3269,1592,42,207,0.7795,0.6948,0.7838,0.1413,0.2349,3810,1051,76,173

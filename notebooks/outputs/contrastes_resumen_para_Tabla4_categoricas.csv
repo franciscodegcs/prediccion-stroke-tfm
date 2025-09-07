@@ -1,0 +1,8 @@
+Variable (cat),N,#niveles,Chi2,gl,p,V de Cramér
+heart_disease,5110,2,93.011,1,<0.001,0.134
+hypertension,5110,2,83.596,1,<0.001,0.127
+ever_married,5110,2,59.979,1,<0.001,0.107
+work_type,5110,5,49.164,4,<0.001,0.094
+smoking_status,5110,4,29.147,3,<0.001,0.072
+residence_type,5110,2,1.221,1,0.269,0.007
+gender,5110,3,0.473,2,0.790,0.000
