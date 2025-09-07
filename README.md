@@ -6,7 +6,7 @@ Este repositorio contiene el código, notebooks y salidas generadas durante mi T
 
 ## Estructura del repositorio
 - **notebooks/** → contiene los cuadernos organizados en fases (EDA, preprocesamiento, modelado, interpretabilidad y despliegue).
-- **outputs/** → figuras, tablas y modelos exportados en formato `.joblib`.
+- **outputs/** → figuras, tablas y gráficos
 - **requirements.txt** → librerías necesarias para reproducir el análisis.
 - **.gitignore** → archivos y directorios excluidos del control de versiones.
 
